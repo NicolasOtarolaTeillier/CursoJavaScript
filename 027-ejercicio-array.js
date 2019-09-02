@@ -1,4 +1,4 @@
-'use strict'
+'use strict'                
 
 var numeros=[];
 var n=3//prompt("cuantos elementos quieres ingresar");

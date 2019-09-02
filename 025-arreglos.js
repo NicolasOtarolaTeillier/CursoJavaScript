@@ -41,6 +41,7 @@ var busqueda = lenguajes.find(function(lenguaje){
 
 var precios = [10,30,180,500,60,70];
 var busqueda= precios.some(precio => precio >=70);
+precios.sort
 
 
 // metodo para ordenar arreglo de enteros 
